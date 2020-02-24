@@ -1,0 +1,28 @@
+{
+  "name": "pandoces-backend",
+  "version": "1.0.0",
+  "description": "Bolos da Carol Padolfe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Carolinepandolfe/pandoces/tree/master/pandoces-backend"
+  },
+  "keywords": [
+    "bolo",
+    "cake",
+    "pandolfe",
+    "pandoce"
+  ],
+  "author": "Caroline Pandolfe",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1"
+  }
+}
